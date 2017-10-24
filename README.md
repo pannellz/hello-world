@@ -1,2 +1,2 @@
 # hello-world
-GitHub tutorial exercise
+GitHub tutorial exercise. Exercise your brain.
